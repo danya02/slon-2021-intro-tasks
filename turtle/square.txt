@@ -1,0 +1,26 @@
+50 times
+  left
+  down
+end
+100 times
+  up
+  paint
+end
+100 times
+  right
+  paint
+end
+100 times
+  down
+  paint
+end
+100 times
+  left
+  paint
+end
+100 times
+  up
+  paint
+  right
+  paint
+end
